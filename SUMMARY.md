@@ -6,7 +6,7 @@
   * [🤝 BubbleSwap](decentralized-exchange/bubbleswap.md)
   * [💧 Liquidity Farming](decentralized-exchange/liquidity-farming.md)
   * [🧬 Synthethic Yield Farming](decentralized-exchange/synthethic-yield-farming.md)
-  * [👨🌾 Real Yield Farming](decentralized-exchange/real-yield-farming.md)
+  * [👨🌾 Bubble Protocol Farming](decentralized-exchange/bubble-protocol-farming.md)
   * [💹 Delta Neutral Aggregated Market Making](decentralized-exchange/delta-neutral-aggregated-market-making.md)
   * [📈 sAPY](decentralized-exchange/sapy.md)
 * [🏨 Bubble DeFi DAO](bubble-defi-dao.md)
