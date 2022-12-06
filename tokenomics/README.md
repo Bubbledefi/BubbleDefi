@@ -1,7 +1,5 @@
 # 🪙 Tokenomics
 
-_**Tokenomics**_\
-_****_\
 _****_:camera\_with\_flash: _****_ 15 % Marketing
 
 :moneybag: 20 % Presale
