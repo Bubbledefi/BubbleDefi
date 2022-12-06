@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗯 Introduction Bubble DeFi](README.md)
+* [🗯 Introducing Bubble DeFi](README.md)
 * [🩹 Liquidity Crunch Terminus](liquidity-crunch-terminus.md)
 * [⚖ Decentralized Exchange](decentralized-exchange/README.md)
   * [🤝 BubbleSwap](decentralized-exchange/bubbleswap.md)
