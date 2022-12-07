@@ -5,7 +5,7 @@
 :closed\_lock\_with\_key: In order to pursue absolute safety for the development of our project, we will undergo several audits when the Bubble DeFi Platform is released.
 
 \
-:globe\_with\_meridians: We believe this is the most transparent and stable way to enter the market as a project. For this we will work with an established market auditor who will fully guide us through our journey starting from the token contract and in launching our application including Swap, DAO, NFT & Staking Pools.\
+:globe\_with\_meridians: We believe this is the most transparent and stable way for our project to enter the market. We will work with an established market auditor who will guide us through our journey, starting with the token contract all the way through to launching our application with its Swap, DAO, NFT & Staking Pools. \
 
 
 **Bubble Contract**\
