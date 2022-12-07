@@ -6,4 +6,4 @@
 
 :coin: To achieve that is to create a special type of collectively managed organization known as a decentralized autonomous organization (DAO) and require participants to invest their own money in exchange for voting powers to ensure they all act honestly and the DAO prevails.
 
-:book: The $BUB utility token known as a " Governance Token" is then issued to Floppa users to represent each person's stake in the DAO for voting and earning.
+:book: The $BUB utility token known as a " Governance Token" is then issued to Bubble users to represent each person's stake in the DAO for voting and earning.
