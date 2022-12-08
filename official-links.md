@@ -6,7 +6,7 @@ description: Beware of scammers trying to mislead you, only click on official li
 
 Medium: [https://medium.com/@Bubble\_DeFi](https://medium.com/@Bubble\_DeFi)
 
-Discord: [https://discord.gg/bubbledefi](https://discord.gg/bubbledefi)
+Discord: [https://discord.gg/Uk7rk5kn](https://discord.gg/Uk7rk5kn)
 
 Twitter: [https://twitter.com/bubble\_defi](https://twitter.com/bubble\_defi)
 
