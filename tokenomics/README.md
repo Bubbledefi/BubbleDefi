@@ -1,6 +1,6 @@
 # 🪙 Tokenomics
 
-_****_:camera\_with\_flash: _****_ 15 % Marketing
+:camera\_with\_flash: 15 % Marketing
 
 :moneybag: 20 % Presale
 
@@ -10,6 +10,10 @@ _****_:camera\_with\_flash: _****_ 15 % Marketing
 
 :globe\_with\_meridians: 25 % Bubble protocol\
 
+
+* Token Symbol: BUB
+* Token Name：BubbleDeFi
+* Total Supply: 100,000,000
 
 :scales: 5% buy/sell tax on $BUB pairs which will be burned and added to the liquidity pool in order to provide deeper liquidity for the community.\
 
