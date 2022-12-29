@@ -4,19 +4,15 @@ description: Beware of scammers trying to mislead you, only click on official li
 
 # 🔗 Official Links
 
+Website: [http://BubbleDeFi.com/](http://bubbledefi.com/)
+
 Medium: [https://medium.com/@Bubble\_DeFi](https://medium.com/@Bubble\_DeFi)
 
-Discord: [https://discord.gg/Uk7rk5kn](https://discord.gg/Uk7rk5kn)
+Discord: [http://discord.gg/8EcBNzPVWP](http://discord.gg/8EcBNzPVWP)
 
 Twitter: [https://twitter.com/bubble\_defi](https://twitter.com/bubble\_defi)
 
-Linktree: [https://linktr.ee/bubble\_defi](https://linktr.ee/bubble\_defi)&#x20;
-
 Crew3: [https://bubbledefi.crew3.xyz/questboard](https://bubbledefi.crew3.xyz/questboard)
-
-Github: [https://github.com/Bubbledefi/BubbleDefi](https://github.com/Bubbledefi/BubbleDefi)
-
-Website: TBA :man\_mechanic:
 
 
 
