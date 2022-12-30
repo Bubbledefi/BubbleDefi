@@ -3,7 +3,7 @@
 * [🗯 Introducing Bubble DeFi](README.md)
 * [🩹 Liquidity Crunch Terminus](liquidity-crunch-terminus.md)
 * [⚖ Decentralized Exchange](decentralized-exchange/README.md)
-  * [🤝 BubbleSwap](decentralized-exchange/bubbleswap.md)
+  * [🤝 Bubble Swap](decentralized-exchange/bubble-swap.md)
   * [💧 Liquidity Farming](decentralized-exchange/liquidity-farming.md)
   * [🧬 Synthethic Yield Farming](decentralized-exchange/synthethic-yield-farming.md)
   * [👨🌾 Bubble Protocol Farming](decentralized-exchange/bubble-protocol-farming.md)

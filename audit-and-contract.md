@@ -15,6 +15,6 @@
 
 :safety\_vest: 100% Liquidity Crunch Proof
 
-:white\_check\_mark:100% SAFU&#x20;
+:white\_check\_mark: 100% SAFU&#x20;
 
 :closed\_lock\_with\_key: All LP tokens will be burned FOREVER
