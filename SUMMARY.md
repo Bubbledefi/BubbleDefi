@@ -10,7 +10,6 @@
   * [💹 Delta Neutral Aggregated Market Making](decentralized-exchange/delta-neutral-aggregated-market-making.md)
   * [📈 sAPY](decentralized-exchange/sapy.md)
 * [🏨 Bubble DeFi DAO](bubble-defi-dao.md)
-* [🔭 Our Vision](our-vision.md)
 * [📶 Our Mission](our-mission.md)
 * [🪙 Tokenomics](tokenomics/README.md)
   * [🏦 Bubble Treasury](tokenomics/bubble-treasury.md)

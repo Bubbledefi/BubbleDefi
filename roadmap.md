@@ -8,7 +8,7 @@ _Q1 - 2023_\
 _- Ecosystem/DEX Launch_\
 _- DAO operational_\
 _- Contract & app audit_\
-_- KOL & influencer campaigns_
+_- Launch on Arbitrum_
 
 _Q2 - 2023_\
 _- Synthetic yield farming_\
@@ -27,7 +27,7 @@ _- Bug bounty system_
 _Q4 - 2023_\
 _- NFT marketplace_\
 _- Advanced exchange and trading features_\
-_- Cross-chain liquidity aggregator_\
+_- DNAMM_\
 _- Bubble Foundation_\
 __\
 __
