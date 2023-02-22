@@ -4,10 +4,10 @@ description: The heart of the Bubble ecosystem.
 
 # 🤝 Bubble Swap
 
-:heart: The Bubble Swap DEX is the heart of the Bubble ecosystem. It allows users to trade their ERC20 tokens in a trustless and secure way. Our protocol works by users providing liquidity to the different pools which can be used to trade different pairs in a censorship-resistant way.
+:heart: The BubbleSwap DEX represents a significant milestone in the DeFi landscape, as it leverages the power of smart contracts to provide a decentralized, trustless, and secure trading environment for users seeking to trade their ERC20 tokens. By providing users with the ability to provide liquidity to the various pools and facilitating censorship-resistant trading, BubbleSwap allows for a more transparent and equitable marketplace.
 
-:scissors: All trades that go through our automated pools are taxed with 1% to incentivize liquidity providing and reward their risk-taking.
+:scissors: To incentivize liquidity providers, all trades passing through our automated pools are taxed with 1%, which serves to not only reward them for their risk-taking but also facilitate liquidity building and efficiency in trading. Moreover, to provide users with an optimal trading experience, BubbleSwap offers the option to customize pairs and slippage tolerance.
 
-:scales: While using Bubble Swap, you will have the option to choose your pairs and slippage tolerance for a more optimal trading experience.\
+:scales:As part of our ongoing commitment to innovation, we are continually working on developing new features for our users. One such feature is the development of limit orders and stop losses, which are currently high priorities in our roadmap. These advanced trading tools will offer users greater control over their trading strategies and further enhance the overall trading experience on the BubbleSwap DEX.\
 \
-:construction\_worker: Limit orders and stop losses will be developed in our future upgrades and are a high priority in our roadmap.
+:construction\_worker: With BubbleSwap, users can trade with confidence, knowing that their trades are secure, transparent, and free from the constraints of third-party intermediaries.

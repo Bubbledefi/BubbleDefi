@@ -4,11 +4,11 @@ description: Building a protocol with a stable approach ➡️
 
 # 💹 Delta Neutral Aggregated Market Making
 
-:bookmark\_tabs:The Bubble DeFi smart contract was created with the intention to hedge for the possibility of a liquidity crunch taxing every transaction with 3% that goes straight into liquidity and 2% that builds up the liquidity reserve.&#x20;
+:bookmark\_tabs:The Bubble DeFi protocol employs a sophisticated Delta Neutral Aggregated Market Making (DNAMM) approach, which hedges against the possibility of a liquidity crunch by imposing a 3% tax on every transaction.\
+\
+The tax is directed towards liquidity, with 2% allocated to building up the liquidity reserve. This strategy enables the protocol to increase liquid allocations while mitigating the risk of unduly large positions that may result from a crowding effect.
 
-:sweat\_drops: This allows the protocol to increase liquid allocations while aiming to avoid unduly large positions of crowding risk. Deploying an active strategy to exploit the negative impact of liquidity.
-
-:ocean: Our protocol will run through all pools which include your selected pairs in order to get the best price for your transaction. Instead of market making bots profiting from your trades, you will get the most optimal price going through our different pools.
+:ocean: Our protocol uses an active strategy to exploit the negative impact of liquidity. It runs through all pools, including the selected pairs, to ensure users get the best price for their transactions. Unlike market-making bots that profit from trades, Bubble DeFi ensures that users receive the most optimal price by leveraging its multiple pools. This approach helps to create a more efficient and trustless environment for trading ERC20 tokens.
 
 
 

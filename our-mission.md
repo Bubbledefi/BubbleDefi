@@ -1,8 +1,8 @@
 # 📶 Our Mission
 
-:dart: Our ultimate goal with the Bubble Platform is to create an open a liquid market where users can find security and transparency as one of the core values.
+:dart: At Bubble, we are dedicated to creating a secure and transparent market for our users, with an overarching goal of providing a liquid marketplace.&#x20;
 
-:scales: In the Bubble DeFi protocol, a conscious decision was made to build liquidity with each transaction with the end goal of stabilizing price volatility and offering projects an easier path for growth.\
+:scales: With this in mind, we have developed the Bubble DeFi protocol, a platform that prioritizes the importance of building liquidity with every transaction. Our intention in doing so is to stabilize the volatility of prices and offer a smoother path for growth to projects.\
 \
-:moneybag: Our automatic market making system ensures that communities can trade their projects on the bubble Swap DEX and sleep tight knowing the chance of a liquidity crunch is practically zero.
+:moneybag: One of the cornerstones of our protocol is an automatic market making system, which serves to enable communities to trade their projects on our decentralized exchange, Bubble Swap, with peace of mind. We have implemented measures that effectively reduce the probability of a liquidity crunch, thereby ensuring our users have access to a reliable and safe platform for their trading needs.
 

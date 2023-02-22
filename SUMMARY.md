@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🗯 Introducing Bubble DeFi](README.md)
-* [🩹 Liquidity Crunch Terminus](liquidity-crunch-terminus.md)
+* [🚫 Problem](problem.md)
+* [🎇 Solution](solution.md)
 * [⚖ Decentralized Exchange](decentralized-exchange/README.md)
   * [🤝 Bubble Swap](decentralized-exchange/bubble-swap.md)
   * [💧 Liquidity Farming](decentralized-exchange/liquidity-farming.md)
