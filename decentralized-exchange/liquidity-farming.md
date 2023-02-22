@@ -8,7 +8,7 @@ description: >-
 
 :scales: BubbleDeFi has revolutionized decentralized liquidity by introducing liquid DEX trading that enables community projects to trade on a decentralized market in a sustainable way.\
 \
-All trades on BubbleSwap Dex are taxed to incentivize liquidity building, which in turn generates more liquidity and ensures perpetual security by burning LP tokens. This approach provides a more expanding and efficient way of trading for all parties involved.
+:construction\_site: All trades on BubbleSwap Dex are taxed to incentivize liquidity building, which in turn generates more liquidity and ensures perpetual security by burning LP tokens. This approach provides a more expanding and efficient way of trading for all parties involved.
 
 :ocean: In the context of yield farming, liquidity providers (LPs) and liquidity pools play a vital role. Becoming an LP is simple and requires adding funds to a liquidity pool (smart contract), which generates fees from the underlying DeFi platform or reward tokens.
 
