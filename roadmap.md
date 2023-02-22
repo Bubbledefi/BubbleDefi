@@ -27,7 +27,7 @@ _- Bug bounty system_
 _Q4 - 2023_\
 _- NFT marketplace_\
 _- Advanced exchange and trading features_\
-_- DNAMM_\
+_- DNAMM Router_\
 _- Bubble Foundation_\
 __\
 __
